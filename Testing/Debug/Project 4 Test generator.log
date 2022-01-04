@@ -1,0 +1,5 @@
+﻿  generateTests.cpp
+C:\Users\avnis\OneDrive\Desktop\UCLA Freshman '19\UCLA Spring '19\CS 32\Project 4 Test generator\generateTests.cpp(60,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avnis\OneDrive\Desktop\UCLA Freshman '19\UCLA Spring '19\CS 32\Project 4 Test generator\generateTests.cpp(166,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avnis\OneDrive\Desktop\UCLA Freshman '19\UCLA Spring '19\CS 32\Project 4 Test generator\generateTests.cpp(188,31): warning C4018: '<': signed/unsigned mismatch
+  Project 4 Test generator.vcxproj -> C:\Users\avnis\OneDrive\Desktop\UCLA Freshman '19\UCLA Spring '19\CS 32\Project 4 Test generator\Debug\Project 4 Test generator.exe
